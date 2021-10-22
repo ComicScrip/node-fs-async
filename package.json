@@ -1,0 +1,19 @@
+{
+  "name": "fs-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComicScrip/node-fs-async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComicScrip/node-fs-async/issues"
+  },
+  "homepage": "https://github.com/ComicScrip/node-fs-async#readme"
+}
